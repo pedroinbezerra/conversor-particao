@@ -1,0 +1,20 @@
+C:\Users\pedro\source\repos\Conversor de partição\bin\Debug\Conversor de partição.exe.config
+C:\Users\pedro\source\repos\Conversor de partição\bin\Debug\Conversor de partição.exe
+C:\Users\pedro\source\repos\Conversor de partição\bin\Debug\Conversor de partição.pdb
+C:\Users\pedro\source\repos\Conversor de partição\obj\Debug\Conversor de partição.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\Conversor de partição\obj\Debug\Conversor_de_partição.Form1.resources
+C:\Users\pedro\source\repos\Conversor de partição\obj\Debug\Conversor_de_partição.Properties.Resources.resources
+C:\Users\pedro\source\repos\Conversor de partição\obj\Debug\Conversor de partição.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\Conversor de partição\obj\Debug\Conversor de partição.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Conversor de partição\obj\Debug\Conversor de partição.exe
+C:\Users\pedro\source\repos\Conversor de partição\obj\Debug\Conversor de partição.pdb
+C:\Users\pedro\source\repos\Conversor de partição de inicialização\bin\Debug\Conversor de partição.exe.config
+C:\Users\pedro\source\repos\Conversor de partição de inicialização\bin\Debug\Conversor de partição.exe
+C:\Users\pedro\source\repos\Conversor de partição de inicialização\bin\Debug\Conversor de partição.pdb
+C:\Users\pedro\source\repos\Conversor de partição de inicialização\obj\Debug\Conversor de partição.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\Conversor de partição de inicialização\obj\Debug\Conversor_de_partição.Form1.resources
+C:\Users\pedro\source\repos\Conversor de partição de inicialização\obj\Debug\Conversor_de_partição.Properties.Resources.resources
+C:\Users\pedro\source\repos\Conversor de partição de inicialização\obj\Debug\Conversor de partição.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\Conversor de partição de inicialização\obj\Debug\Conversor de partição.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Conversor de partição de inicialização\obj\Debug\Conversor de partição.exe
+C:\Users\pedro\source\repos\Conversor de partição de inicialização\obj\Debug\Conversor de partição.pdb
