@@ -11,6 +11,20 @@ O botão atualizar faz um refresh dos discos conectados ao computador.
 Isso é útil quando o disco que deseja formatar foi conectado após inicialização
 do programa.
 
-<ul>
-    <li>Karina</li>
-</ul>
+    <table>
+        <th>
+            <strong>Permissão</strong>
+        </th>
+        <th>
+            <strong>Descrição</strong>
+        </th>
+
+        <tr>
+            <td>
+                ROLE_SEGURANCA_ADM
+            </td>
+            <td>
+                Torna o usuário um administrador
+            </td>
+        </tr>
+    </table>
