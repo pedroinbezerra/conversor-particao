@@ -10,3 +10,7 @@ em converter.
 O botão atualizar faz um refresh dos discos conectados ao computador.
 Isso é útil quando o disco que deseja formatar foi conectado após inicialização
 do programa.
+
+<ul>
+    <li>Karina</li>
+</ul>
